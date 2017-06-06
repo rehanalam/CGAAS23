@@ -133,10 +133,10 @@ collect = {}
 operation = OperationTypeEnum.SUM
 collect['operation'] = operation
 
-x = 56.6910661997698
+x = 176.473811697901
 collect['x'] = x
 
-y = 56.6910661997698
+y = 176.473811697901
 collect['y'] = y
 
 
